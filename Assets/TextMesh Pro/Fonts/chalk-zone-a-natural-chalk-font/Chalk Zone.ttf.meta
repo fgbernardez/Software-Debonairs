@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1eb1274690075b746ad1b4290ad0fc0e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Chalk Zone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 17d71e8ef38a7ea44b9fb7de261e0a88, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
